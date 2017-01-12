@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial
 
+hoge
+
 ## "hello, world!"
 
 This is the first application for the
