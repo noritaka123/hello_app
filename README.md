@@ -1,6 +1,8 @@
 # Ruby on Rails Tutorial
 
-moge
+hoge
+
+## "hello, world!"
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
